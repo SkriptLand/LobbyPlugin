@@ -1,0 +1,7 @@
+spawn=Téléportation au spawn en cours ...
+setSpawn=Création du point de spawn.
+fly.true=Activation du fly.
+fly.false=Désactivation du fly.
+gamemode.empty=/gm <c,s,a,0,1,2>
+gamemode.error=Un caractère illégal a été rentrer dans la commande.
+gamemode.change=Vous êtes maintenant en : %gamemode% !
