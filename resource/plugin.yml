@@ -1,0 +1,15 @@
+name: Lobby
+main: net.skriptland.lobby.Main
+version: 1.0
+authors:
+  - SkyfightTV
+  - MrCubee
+commands:
+  setspawn:
+    permission: lobby.setspawn
+  spawn:
+    permission: lobby.spawn
+  gm:
+    permission: lobby.gm
+  fly:
+    permission: lobby.fly
