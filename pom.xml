@@ -36,7 +36,7 @@
     <repositories>
         <repository>
             <id>mrcubee-public</id>
-            <url>http://nexus.mrcubee.net/repository/minecraft/</url>
+            <url>https://nexus.mrcubee.net/repository/minecraft/</url>
         </repository>
     </repositories>
 
